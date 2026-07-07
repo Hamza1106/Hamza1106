@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | AI & Automation Engineer | CS Student @ Sukkur IBA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+React+%2B+.NET+booking+platforms;Automating+businesses+with+AI+%26+n8n;Freelancing+on+Fiverr+as+%40orbitflow;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+React+%2B+Node+booking+platforms;Automating+businesses+with+AI+%26+n8n;Freelancing+on+Fiverr+as+%40orbitflow;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
