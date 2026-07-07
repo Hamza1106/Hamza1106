@@ -9,7 +9,7 @@
   <a href="https://portfolio-hamza-akhtar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/orbitflow" target="_blank">
+  <a href="https://www.fiverr.com/orbit_flow" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
   <a href="mailto:hamzaqureshi0128@gmail.com" target="_blank">
@@ -25,7 +25,7 @@
 ### 🚀 About Me
 
 - 🎓 CS undergrad at **Sukkur IBA University** (CGPA 3.82/4.0) — graduating May 2027
-- 💼 Frontend Intern at **Daewoo Express**, building a React + Vite booking platform on top of .NET REST APIs
+- 💼 Frontend Intern at **Daewoo Express**, building a React + Vite booking platform on top of REST APIs
 - 🤖 Run freelance AI/automation services on Fiverr under **@orbitflow** — chatbots, n8n/Make/Zapier workflows, data analysis
 - 🌐 Building a 3D interactive portfolio with **React Three Fiber**, Rapier physics, and Framer Motion
 - 📈 Currently exploring: WhatsApp AI agents (Twilio + FastAPI + Gemini), voice agents (Vapi.ai)
