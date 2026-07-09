@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🎓 CS undergrad at **Sukkur IBA University** (CGPA 3.82/4.0) — graduating May 2027
+- 🎓 CS undergrad at **Sukkur IBA University** — graduating May 2027
 - 💼 Frontend Intern at **Daewoo Express**, building a React + Vite booking platform on top of REST APIs
 - 🤖 Run freelance AI/automation services on Fiverr under **@orbitflow** — chatbots, n8n/Make/Zapier workflows, data analysis
 - 🌐 Building a 3D interactive portfolio with **React Three Fiber**, Rapier physics, and Framer Motion
