@@ -22,14 +22,21 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 CS undergrad at **Sukkur IBA University** — graduating May 2027
-- 💼 Frontend Intern at **Daewoo Express**, building a React + Vite booking platform on top of REST APIs
-- 🤖 Run freelance AI/automation services on Fiverr under **@orbitflow** — chatbots, n8n/Make/Zapier workflows, data analysis
-- 🌐 Building a 3D interactive portfolio with **React Three Fiber**, Rapier physics, and Framer Motion
-- 📈 Currently exploring: WhatsApp AI agents (Twilio + FastAPI + Gemini), voice agents (Vapi.ai)
-- 💬 Ask me about: React, full-stack dev, AI automation pipelines, or freelancing on Fiverr
+🎓 BS Computer Science student at Sukkur IBA University, graduating in May 2027.
+
+💼 Frontend Intern at Daewoo Express, building a modern React + Vite booking platform integrated with REST APIs and scalable frontend architecture.
+
+🤖 Freelance AI & Automation Engineer on Fiverr under **@orbitflow**, delivering AI chatbots, workflow automation (n8n, Make, Zapier), intelligent assistants, and data-driven solutions.
+
+🌐 Passionate about building premium digital experiences—from interactive 3D web applications and cinematic UI/UX to full-stack platforms, AI-powered healthcare systems, and procedural world generation engines.
+
+📈 Currently exploring AI Agents, WhatsApp AI Assistants (Twilio + FastAPI + Gemini), Voice AI (Vapi), Machine Learning, and advanced frontend technologies.
+
+🏆 Recent projects include an AI Procedural World Generation Engine, HerCare AI, Jamaica Tour Management System, Royal Dastarkhuwan, Wear-IT Store, and Pizza House 3D.
+
+💬 Ask me about React, TypeScript, Python, Full-Stack Development, AI, Machine Learning, Automation, UI/UX, or Software Engineering.
 
 ---
 
